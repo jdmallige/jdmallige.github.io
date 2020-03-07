@@ -1,0 +1,92 @@
+body{
+    background-color: #334;
+}
+html {
+    scroll-behavior: smooth;
+  }
+.wrapper{
+    background-color: whitesmoke;
+}
+section{
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+}
+nav a{
+    margin:2px;
+}
+nav a:hover{
+background-color: #007BFF;
+}
+ul a:link {
+    text-decoration: none;
+    color: black;
+  }
+  
+ul  a:visited {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  a:active {
+    text-decoration: underline;
+  }
+
+button {
+    margin:0 auto;
+    display:block;
+}
+.card{
+margin-top: 20px;
+margin-bottom: 20px;
+
+}
+
+.link{
+    background-color: ;
+}
+.card-body{
+    background-color: black;
+    opacity: 0.8;
+    color: white;
+}
+
+.card-body:hover{
+    background-color: black;
+    opacity: 0.6;
+    
+}
+.aboutmetext{
+    background-color: black;
+    opacity: 0.9;
+    color: white;
+}
+
+.aboutmetext:hover{
+    background-color: black;
+    opacity: 0.7;
+    
+}
+
+.footer {
+    padding: 2.5rem 0;
+    color: #999;
+    text-align: center;
+    background-color: #f9f9f9;
+    border-top: .05rem solid #e5e5e5;
+}
+h5{
+    display: inline;
+}
+li div {
+    display: flex;
+    align-items: center;
+  }
+i{
+    padding:0 10px ;
+}  
+ul{
+    padding: 0 15%;
+}
